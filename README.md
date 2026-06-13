@@ -1,5 +1,4 @@
 # Linux_Task_01_Bhargav_Aher
-# Linux Task 01
 
 ## Student Information
 
